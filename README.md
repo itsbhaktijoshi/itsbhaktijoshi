@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Bhakti Joshi  
 
 🎓 First-year Computer Engineering Student at Pimpri Chinchwad College of Engineering and Research.  
+
 💻 Passionate about **Web Development, Artificial Intelligence & Data Structures**.  
+
 🎗️ Aspiring **Software Engineer** with a love for **problem-solving & coding challenges**.
-   📚 Currently learning **Programming** & **Problem Solving**.
+
+📚 Currently learning **Programming** & **Problem Solving**.
 
 ---
 
