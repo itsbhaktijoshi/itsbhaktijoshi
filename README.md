@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhakti Joshi  
 
-🎓 First-year Computer Engineering Student at Pimpri Chinchwad College of Engineering and Research.  
+🎓 First-year **Computer Engineering** Student at Pimpri Chinchwad College of Engineering and Research.  
 
 💻 Passionate about **Web Development, Artificial Intelligence & Data Structures**.  
 
