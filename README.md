@@ -2,7 +2,8 @@
 
 🎓 First-year Computer Engineering Student at Pimpri Chinchwad College of Engineering and Research.  
 💻 Passionate about **Web Development, Artificial Intelligence & Data Structures**.  
-🚀 Aspiring **Software Engineer** with a love for **problem-solving & coding challenges**.  
+🎗️ Aspiring **Software Engineer** with a love for **problem-solving & coding challenges**.
+📚 Currently learning **Programming** & **Problem Solving**
 
 ---
 
@@ -20,7 +21,7 @@
 - 🌐 Web Development (HTML, CSS, JavaScript)  
 - 🤖 Artificial Intelligence (Basics)  
 - 📊 Data Structures & Algorithms  
-- ⚡ Problem Solving  
+- 🧩 Problem Solving  
 
 
 
